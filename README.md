@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -40,3 +41,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# university-programming-of-user-interfaces-sandbox
+Source code from university exam "programming and design of user interfaces".
+>>>>>>> f9b3fe0e02438e28efc0b749049f49f14250ad4d
